@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Naman kumar<br>🎓 B.Tech CSE student specializing in AI & Machine Learning<br>💻 Passionate about coding, problem-solving, and building real-world projects<br>🌱 Currently learning Python, ML, and Web Development<br>🚀 Always exploring new technologiesHi, I’m Naman kumar<br>🎓 B.Tech CSE student specializing in AI & Machine Learning<br>💻 Passionate about coding, problem-solving, and building real-world projects<br>🌱 Currently learning Python, ML, and Web Development<br>🚀 Always exploring new technologies
+Hi, I’m Naman kumar<br>🎓 B.Tech CSE student specializing in AI & Machine Learning<br>💻 Passionate about coding, problem-solving, and building real-world projects<br>🌱 Currently learning Python, ML, and Web Development<br>🚀 Always exploring new technologies
 
 
 ## 🌐 Socials:
